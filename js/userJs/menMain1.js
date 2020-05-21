@@ -5,19 +5,19 @@ var mainProducts = [
   },
   {
     price: 950,
-    image: "../images/mens/menshirt2.jpg",
+    image: "../images/mens/menshirt2.JPG",
   },
   {
     price: 450,
-    image: "../images/mens/menshirt3.jpg",
+    image: "../images/mens/menshirt3.JPG",
   },
   {
     price: 550,
-    image: "../images/mens/menshirt4.jpg",
+    image: "../images/mens/menshirt4.JPG",
   },
   {
     price: 950,
-    image: "../images/mens/menshirt5.jpg",
+    image: "../images/mens/menshirt5.JPG",
   },
 ];
 var mainIteams = () => {
